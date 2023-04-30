@@ -37,7 +37,6 @@ export const InputField = styled.input`
   border-radius: 4px;
   margin-top: 5px;
   margin-bottom: 5px;
-
   &:hover {
     border: 1px solid #2196f3;
   }
